@@ -1,0 +1,2 @@
+# lol
+Log of Legend
